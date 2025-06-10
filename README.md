@@ -1,2 +1,3 @@
 # DeleteRepo
-This repo contains python files that will automatically fetch your repo names and will delete all the unwanted repositories
+This repo contains python files that will automatically fetch your repo names and save it into repos.txt file.
+We can then sort out the unwanted repos and delete them all at once 
